@@ -20,3 +20,10 @@ numero = int(input("Dijite un numero "))
 print(type(numero))
 print(numero * 5)
 print("finalizo")
+
+#condicional
+def numero_al_cuadrado(numero,veces):
+   resul = numero ** veces
+   return resul 
+
+print("El resultado del numero al cuadrado es: " , numero_al_cuadrado(4,5))
