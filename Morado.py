@@ -1,4 +1,4 @@
-
+print("El morado hace parte tambien de mi")
 print("Mi primer ciclo en python")
 i = 0
 while (i<= 6):
